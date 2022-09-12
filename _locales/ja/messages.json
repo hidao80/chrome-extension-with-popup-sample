@@ -1,0 +1,8 @@
+{
+    "appName": {
+        "message": "SCE with Popup"
+    },
+    "appDesc": {
+        "message": "Chrome拡張機能でポップアップを出すサンプルです。"
+    }
+}

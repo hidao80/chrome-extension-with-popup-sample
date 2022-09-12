@@ -1,0 +1,17 @@
+{
+    "name": "__MSG_appName__",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "__MSG_appDesc__",
+    "default_locale": "ja",
+    "homepage_url": "https://github.com/hidao80/chrome-extension-sample/",
+    "update_url": "https://github.com/hidao80/chrome_extension_sample/releases/",
+    "icons": {
+        "256": "img/icon_256.png"
+    },
+    "action": {
+        "default_title": "タイトルとURLをコピー",
+        "default_icon": "img/icon_256.png",
+        "default_popup": "html/popup.html"
+    }
+}
